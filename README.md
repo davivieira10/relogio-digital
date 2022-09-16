@@ -1,7 +1,7 @@
 ## <h1>Relógio Digital</h1>
-<h2>Projeto desenvolvido para praticar HTML5, CSS3 e JavaScript.</h2>
+<h2>Projeto desenvolvido para praticar as ferramentas de HTML5, CSS3 e JavaScript.</h2>
 
-<img align="center" alt="Relógio Digital" src="">
+<img align="center" alt="Relógio Digital" src="https://i.postimg.cc/hPbMsK1K/projeto-relogio-digital.png">
 
 [🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/relogio-digital/)
 
