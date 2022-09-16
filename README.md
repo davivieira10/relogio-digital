@@ -3,7 +3,7 @@
 
 <img align="center" alt="Relógio Digital" src="">
 
-[🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/contador/)
+[🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/relogio-digital/)
 
 <b>As ferramentas utilizadas foram:</b>
 <div style="display: inline_block"><br>
